@@ -20,4 +20,4 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 - Twitter - [Nadeem Ahmad](https://twitter.com/Nadeem_dev)
 - Instagram - [@enndesig](https://instagram.com/enndesig)
-- Frontend Mentor - [@indraAK](https://www.frontendmentor.io/profile/enn-dee)
+- Frontend Mentor - [@Enn-dee](https://www.frontendmentor.io/profile/enn-dee)
