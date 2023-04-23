@@ -18,6 +18,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Author
 
-- Twitter - [Nadeem Ahmad](https://twitter.com/Nadeem_dev)
+- Twitter - [Nadeem Ahmad](https://twitter.com/Nadeem__dev)
 - Instagram - [@enndesig](https://instagram.com/enndesig)
 - Frontend Mentor - [@Enn-dee](https://www.frontendmentor.io/profile/enn-dee)
