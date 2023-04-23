@@ -8,7 +8,12 @@
 }
 
 body {
+
+    background-color: #dfe6fb;
+
     background-image: url('./images/pattern-background-desktop.svg');
+
+    background-repeat: repeat-x;
 }
 
 .container {
