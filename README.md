@@ -13,11 +13,11 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-component-html-and-css-5e2-yygul
-- Live Site URL / Demo: [live site URL](https://stoic-sammet-05e508.netlify.app/)
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-card-component-WUqIWLuhS3
+- Live Site URL / Demo: [live site URL](https://enn-dee.github.io/order-summary-component-main//)
 
 ## Author
 
-- Facebook - [Indra Adi Kusuma](https:/facebook.com/profile.php?id=100009019826862)
-- Instagram - [@mrx.indra](https://instagram.com/mrx.indra)
-- Frontend Mentor - [@indraAK](https://www.frontendmentor.io/profile/indraAK)
+- Twitter - [Nadeem Ahmad](https://twitter.com/Nadeem_dev)
+- Instagram - [@enndesig](https://instagram.com/enndesig)
+- Frontend Mentor - [@indraAK](https://www.frontendmentor.io/profile/enn-dee)
